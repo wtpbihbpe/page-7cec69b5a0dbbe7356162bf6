@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f9d065ebbe0b3a05f4d8e2e6",
+  "owner": "wtpbihbpe",
+  "repo": "page-7cec69b5a0dbbe7356162bf6",
+  "title": "卡路里(calorie)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7cec69b5a0dbbe7356162bf6",
+      "a": "卡路里(calorie)",
+      "b": "2027官方最新地址导航",
+      "entity": "卡路里(calorie)",
+      "brand": "卡路里(calorie)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8dc329fc2e165e4ed8ae4201cc0017b95430e46029f3b322e620be8b15506974",
+      "content": {
+        "primary_entity": "卡路里(calorie)",
+        "keyword1": "卡路里(calorie)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，为跨境访问、流媒体播放与游戏加速提供多协议节点选择。套餐覆盖基础版、旗舰版与团队版，分别对应不同流量、设备数量与线路类型，可按月或按年订阅，适合个人到小型团队按需挑选，订阅后可按客户端文档导入配置。",
+          "AI_HERO_SUBTITLE": "多场景网络加速选择",
+          "AI_HERO_INTRO": "卡路里(calorie)面向需要稳定跨境访问的用户，提供分层套餐、多协议节点与多设备支持。基础版适合轻度浏览，旗舰版侧重流媒体与游戏加速，团队版满足多设备并发与企业化路由需求，用户可按实际用量与设备数选择。",
+          "AI_VISUAL_TITLE": "卡路里加速方案一览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量",
+          "AI_HIGHLIGHT_2": "多平台客户端导入订阅",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择",
+          "AI_FEATURES_TITLE": "方案要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与线路类型出发，选择匹配的加速方案。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "流量与周期",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，年付约为十个月价格，可按需选择周期。",
+          "AI_FEATURE_TITLE_3": "线路适配",
+          "AI_FEATURE_TEXT_3": "普通节点池适合日常浏览，IPLC 专线侧重游戏与流媒体，VIP 节点带宽更高。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择常见客户端，并依照对应文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 15 元，旗舰版每月 35 元，团队版每月 85 元；年付分别 150 元、350 元、850 元。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定用量与设备数，再完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本，核对同时在线设备上限。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在客户端中按文档添加订阅地址，更新节点后即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_CLOSING_TITLE": "按需选择加速方案",
+          "AI_CLOSING_TEXT": "根据流量与设备数，挑选合适的卡路里(calorie)套餐并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览与轻度流媒体，每月100GB流量、3台设备同时在线，月付15元，按年付150元。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，每月300GB流量，并含全节点原生流媒体解锁与IPLC专线游戏加速优化。",
+          "AI_FAQ_ANSWER_3": "常规设备可选择Clash Verge、ClashX、Shadowrocket或v2rayNG，导入订阅链接后开启代理即可。不同客户端设置项略有差异，建议参照客户端自身文档操作。",
+          "AI_FAQ_ANSWER_4": "团队版每月1000GB流量、支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合小团队协作。",
+          "AI_FAQ_ANSWER_5": "套餐支持按月与按年两种方式，按年付更划算：基础版150元/年、旗舰版350元/年、团队版850元/年，可按使用周期灵活选择。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "不同设备如何导入订阅？",
+          "AI_FAQ_QUESTION_4": "团队版能支持多少设备？",
+          "AI_FAQ_QUESTION_5": "套餐可以按月还是按年付费？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hozgames.com",
+    "host": "hozgames.com"
+  },
+  "file_hashes": {
+    "index.html": "9371c7d0356f73f8e28777f11437cfda8b9c0e4bea50acdca3959eb20de46e82",
+    "sitemap.xml": "ef4a79ba2aaa66990afb649a78f2f9a2a1ae8111ec30c024a53986d67b44a64b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e3a053c6de9c41a8061066f833c7f18bd0b2e3b81f0739065f3458d6c7aa34f1",
+    "robots.txt": "489449d3406a6af96b956189c8941ca32e07e8bd50548a745c864f8e0fa3bab7",
+    "f0901c7967b4b6a8eb86414b1e1f481f.txt": "6037322b05121602a27baa8c9f01375003f0a6c1e1a624da45d484a177518b70"
+  },
+  "revision": "130756940677e150e6411a5e738a90afc2b330a4162dc3103515696b9a8b5469"
+}
